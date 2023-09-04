@@ -1,0 +1,106 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Mike Kim",
+      "company": "HCL",
+      "email": "mike@hcl.com",
+      "title": "Developer",
+      "mobile": 8542125711,
+      "photo": "https://static.vecteezy.com/system/resources/previews/000/439/863/original/vector-users-icon.jpg",
+      "groupid": 2
+    },
+    {
+      "id": 3,
+      "name": "Jack jonas",
+      "company": "Cybage Inc",
+      "email": "jack@cybage.com",
+      "title": "Business Analyst",
+      "mobile": 9942138771,
+      "photo": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "groupid": 3
+    },
+    {
+      "id": 4,
+      "name": "Devid",
+      "company": "Infosys",
+      "email": "davic@infosys.com",
+      "title": "System Analyst",
+      "mobile": 7642156712,
+      "photo": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359554_640.png",
+      "groupid": 4
+    },
+    {
+      "id": 5,
+      "name": "William",
+      "company": "Congnizent",
+      "email": "William@Congnizent.com",
+      "title": "HR",
+      "mobile": 8842158565,
+      "photo": "https://w1.pngwing.com/pngs/743/500/png-transparent-circle-silhouette-logo-user-user-profile-green-facial-expression-nose-cartoon.png",
+      "groupid": 5
+    },
+    {
+      "id": 5,
+      "name": "John",
+      "company": "Congnizent",
+      "email": "john@Congnizent.com",
+      "title": "HR",
+      "mobile": 77842143560,
+      "photo": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359554_640.png",
+      "groupid": 5
+    },
+    {
+      "name": "Jay Kumar",
+      "photo": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "mobile": 988776543,
+      "company": "cybage",
+      "title": "Eng",
+      "email": "jay.k.cybage@gmail.com",
+      "groupid": 1,
+      "id": 6
+    },
+    {
+      "name": "Brad Gibson",
+      "photo": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "mobile": 997744532,
+      "company": "TCS",
+      "title": "SSA",
+      "email": "bradgibsone@gmail.com",
+      "groupid": 1,
+      "id": 7
+    },
+    {
+      "name": "Arti Kumar",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "mobile": 9975752342,
+      "company": "TCS",
+      "title": "Associate",
+      "email": "arti@gmail.com",
+      "groupid": 1,
+      "id": 8
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Engineering"
+    },
+    {
+      "id": 2,
+      "name": "Human Resource"
+    },
+    {
+      "id": 3,
+      "name": "Admin"
+    },
+    {
+      "id": 4,
+      "name": "Finance"
+    },
+    {
+      "id": 5,
+      "name": "Technical Writer"
+    }
+  ]
+}
